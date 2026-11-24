@@ -42,3 +42,4 @@ Automated-Resume-Screening-Tool/
 ## Author
 
 Yaseen Khaleel
+<img width="1900" height="967" alt="pic 11" src="https://github.com/user-attachments/assets/86f80cda-97bf-43e3-8dd9-ab7a684349c8" />
